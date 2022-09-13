@@ -9,7 +9,7 @@ export default function Home() {
     <div data-page="home">
         <div>
           <img src="https://media.discordapp.net/attachments/958276034002812958/966061819296890970/unknown.png" alt="Bild" />
-          <h1>Valeria Roleplay</h1>
+          <h1>Valeria Roleplay Very Cool</h1>
           <div class="buttons">
             <button><a>Discord</a></button>
             <button><Link href="/forum">Forum</Link></button>
